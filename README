@@ -1,0 +1,15 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3692
+
+quickhl.vim is minimal utility for
+
+* quickly highlight `<cword>`
+* quickly highlight visually selected text.
+
+quickhl.vim not provide any keymap by default.  see help.
+
+### ScreenCast
+http://www.youtube.com/watch?v=W_XJlTbuoyI
+
+### Github
+https://github.com/t9md/vim-quickhl
+
