@@ -1,15 +1,17 @@
 This is a mirror of http://www.vim.org/scripts/script.php?script_id=3692
 
-quickhl.vim is minimal utility for
+quickhl.vim support highlight for
 
-* quickly highlight `<cword>`
-* quickly highlight visually selected text.
+* multiple keywords manually specified via command or keymap.
+  also provide operator for highlight.
+* `tag` in ctags generated file(defult, underlined)
+* automatically higlight word under cursor(=`<cword>`).
 
-quickhl.vim not provide any keymap by default.  see help.
-
-### ScreenCast
-http://www.youtube.com/watch?v=W_XJlTbuoyI
+quickhl.vim not provide any keymap by default(its my preference)
+See help.
 
 ### Github
 https://github.com/t9md/vim-quickhl
 
+### ScreenCast
+http://www.youtube.com/watch?v=W_XJlTbuoyI
